@@ -1,0 +1,6 @@
+// This recipe draws the first letter of your name using the Robot
+//
+// 1. Create a class called RobotGraffiti
+// 2. Use the Robot to draw the first letter of your name
+// HINT: Use the RobotSquare recipe to help remember how to draw using Robot
+// 3. OPTION: Write your entire first name using the Robot
