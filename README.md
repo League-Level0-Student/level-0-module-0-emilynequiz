@@ -6,3 +6,4 @@ At the end of this module, students will be able to:
 2. Add a main method to the class
 3. Code a pop-up dialog to display a message to the user
 4. Code a pop-up dialog to ask the user for their favorite color
+5. Join Strings using +
