@@ -1,7 +1,10 @@
-import javax.swing.JOptionPane;
+/*
+ *    Copyright (c) The League of Amazing Programmers 2013-2017
+ *    Level 0
+ */
 
+import javax.swing.JOptionPane;
 import org.jointheleague.graphical.robot.Robot;
-import org.teachingextensions.logo.Tortoise;
 
 public class Welcome {
 	public static void main(String[] args) {
