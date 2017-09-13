@@ -9,6 +9,6 @@
  1. Create a class called MorningZombie
  2. Add a main method
  3. Think of a list of instructions for your typical morning routine
- 4. Use a pop-up (JOptonPane.showMessageDialog) for each item in your list
+ 4. Use a pop-up (JOptionPane.showMessageDialog) for each item in your list
  
  */
